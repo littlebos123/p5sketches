@@ -9,7 +9,7 @@ async function setup() {
   rows = int(height/gridSize)
   // noLoop()
 
-  img = await loadImage('/assets/GUUUUUUBBB2.png');
+  img = await loadImage('/assets/image1.png');
 }
 
 function draw() {
